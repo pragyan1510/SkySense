@@ -11,8 +11,8 @@
 ✅lottie animation
 ✅advancement in user experience
 
-![1](https://github.com/pragyan1510/SkySense-WeatherApp-/assets/141828865/894f1de1-b3b2-4f62-8d3b-9c83d2ae81a4)
-![2](https://github.com/pragyan1510/SkySense-WeatherApp-/assets/141828865/bb335a57-1ac4-4022-98ad-3098448f5e48)
-![3](https://github.com/pragyan1510/SkySense-WeatherApp-/assets/141828865/7ba77e2d-ad09-4376-b1e0-eac33e6d39ca)
-![4](https://github.com/pragyan1510/SkySense-WeatherApp-/assets/141828865/0beb4f7a-17ce-4871-a0c2-326ed725e90d)
-![5](https://github.com/pragyan1510/SkySense-WeatherApp-/assets/141828865/7404aaa1-ba1c-4758-9505-612953bb160e)
+
+https://github.com/user-attachments/assets/7d5642b8-9dbd-48c7-876d-f087b3d45dce
+
+
+
